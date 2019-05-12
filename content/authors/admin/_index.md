@@ -23,7 +23,7 @@ bio: I am currently getting my Master of Science in Data Science from SMU. I lov
 interests:
 - Artificial Intelligence
 - Machine Learning
-- Information Retrieval
+- Data Visualization
 
 education:
   courses:
@@ -59,9 +59,9 @@ social:
   link: https://github.com/longhornrach
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "m.rachel.stratemeier@gmail.com"
@@ -73,6 +73,4 @@ email: "m.rachel.stratemeier@gmail.com"
 # - Visitors
 ---
 
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.  -->
+Rachel Stratemeier is in the process of getting her Master of Science in Data Science from Southern Methodist University. She previously obtained an MBA in Business Analytics and a JD in Law, also from SMU, in 2014. Her professional interests include machine learning, data visualization, and artificial intelligence.  
